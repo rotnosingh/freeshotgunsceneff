@@ -1,0 +1,9 @@
+.Container {background:#000;height:600px;width:900px}
+.class1 {}
+.class1 img {}
+.class1 p{text-align:justify;font-size:40px;width:990px;padding-left:20px;color:#ffffff}
+.class1 img {margin:0 auto;padding-left:140px}
+
+
+ a { text-decoration:none;padding:5px;background:#ff000b;color:#fff;font-size:78px;padding:2px;border-radious:5px;cursor:pointer;margin-left:300px;border-radius:15px;text-shadow: 1px 1px 1px solid #000 }
+a:hover{color:#000;box-shadow: 0 0 9px -3px #fff outside; transition:0.5px}
